@@ -56,3 +56,8 @@ font-size: 2.2rem;
     background: var(--mainBrow);
     
 }
+.menu,
+.contact
+{
+    background: var(--mainGrey);
+}
