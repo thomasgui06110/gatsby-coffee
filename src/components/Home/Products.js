@@ -14,7 +14,7 @@ const getProducts = graphql`
             image {
               fluid {
                 src
-                ...GatsbyContentfulFluid_tracedSVG
+                ...GatsbyContentfulFluid
               }
             }
           }
