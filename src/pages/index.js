@@ -17,6 +17,8 @@ const IndexPage = ({ data }) => (
       title="regular joe's"
       styleClass="default-background"
     />
+            <button className="snipcart-customer-signin">My account</button>
+
     <Info />
     <Menu items={data.menu}/>
     <Products />
